@@ -13,23 +13,23 @@ This Repository hosts a script collection to facilitate simulations and output p
 
 ## REQUIREMENTS
 
-* **Seismic Hazard Analysis**
+**1. Seismic Hazard Analysis**
 
-* **Seismic Site Response Analysis**
+**2. Seismic Site Response Analysis**
 
-* **Liquefaction Triggering Analysis - Simplified Method**
+**3. Liquefaction Triggering Analysis - Simplified Method**
 
 
 ## SCRIPT LIBRARY
 
-* **Seismic Hazard Analysis**
+**1. Seismic Hazard Analysis**
   * nshmp-haz Execute & Post-Process.py
 
-* **Seismic Site Response Analysis**
+**2. Seismic Site Response Analysis**
   * DEEPSOIL_DB_AccTH.py
   * DEEPSOIL_DB_DispTH.py
   * DEEPSOIL_DB_Removal.py
   * DEEPSOIL_SRA Post-processing.py
 
-* **Liquefaction Triggering Analysis - Simplified Method**
+**3. Liquefaction Triggering Analysis - Simplified Method**
   * Cliq Output Post-Processor.py
