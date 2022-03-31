@@ -1,4 +1,4 @@
-### MM_Geoseismic-Automation
+# MM_Geoseismic-Automation
 
 ## DESCRIPTION
 This Repository hosts a script collection to facilitate simulations and output post-processing automation for geoseismic practice related software
