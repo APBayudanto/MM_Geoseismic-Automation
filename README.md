@@ -7,9 +7,7 @@ This Repository hosts a script collection to facilitate simulations and output p
 * **Practice**: Geoseismic
 * **Sector**: Geotechnical, Soil Dynamics and Earthquake Engineering, Numerical Simulations
 * **Original Author(s)**: Alvin Bayudanto & Jongwon Lee
-* **Contact Details for Current Repository Owner(s)**: 
-  1. Alvin Bayudanto  : alvin.bayudanto@mottmac.com
-  2. Jongwon Lee      : jongwon.lee@mottmac.com
+* **Contact Details for Current Repository Owner(s)**: alvin.bayudanto@mottmac.com & jongwon.lee@mottmac.com
 
 ## REQUIREMENTS
 
@@ -18,7 +16,6 @@ This Repository hosts a script collection to facilitate simulations and output p
 **2. Seismic Site Response Analysis**
 
 **3. Liquefaction Triggering Analysis - Simplified Method**
-
 
 ## SCRIPT LIBRARY
 
